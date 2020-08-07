@@ -12,10 +12,10 @@
 # For developpers, if you modify this theme, put your images in `source/images` folder and
 # use grunt task `build` to synchronize assets
 
-baseURL = "https://example.org/"
+baseURL = "https://www.billylkc.com/"
 languageCode = "en-us"
 defaultContentLanguage = "en-us"
-title = "Hugo tranquilpeak theme"
+title = "Another DS Blog"
 theme = "hugo-tranquilpeak-theme"
 disqusShortname = "hugo-tranquilpeak-theme"
 # googleAnalytics = "UA-123-45"
@@ -213,3 +213,26 @@ canonifyurls = true
   # Customize copyright value "© 2017 <CUSTOMIZATION>. All Rights Reserved"
   # [params.footer]
   #   copyright = "<a href=\"https://github.com/kakawait\">kakawait</a>"
+
+# Hugo Deploy
+[deployment]
+order = [".jpg$", ".gif$"]
+
+      [[deployment.targets]]	# GCS; see https://gocloud.dev/howto/blob/#gcs
+      name = "mydeployment"
+      URL = "gs://www.billylkc.com"
+
+      [[deployment.matchers]]
+      #  Cache static assets for 1 year.
+      pattern = "^.+\\.(js|css|svg|ttf)$"
+      cacheControl = "max-age=31536000, no-transform, public"
+      gzip = true
+
+      [[deployment.matchers]]
+      pattern = "^.+\\.(png|jpg)$"
+      cacheControl = "max-age=31536000, no-transform, public"
+      gzip = false
+
+      [[deployment.matchers]]
+      pattern = "^.+\\.(html|xml|json)$"
+      gzip = true
