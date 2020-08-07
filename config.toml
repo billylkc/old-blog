@@ -33,8 +33,8 @@ canonifyurls = true
 [author]
   name = "Billy Lam"
   bio = "Data Scientist slash Fisherman"
-  job = "Your job title"
-  location = "France"
+  job = "Data Scientist TechLead"
+  location = "Hong Kong"
   # Your Gravatar email. Overwrite `author.picture` everywhere in the blog
   gravatarEmail = "thibaud.lepretre@gmail.com"
   # Your profile picture
@@ -145,7 +145,7 @@ canonifyurls = true
   autoThumbnailImage = true
 
   # Your favicon path, default is "/favicon.png"
-  # favicon = "favicon_16.png"
+  favicon = "favicon.png"
 
   # Header configuration
   # The link at the right of the header is customizable
