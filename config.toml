@@ -29,7 +29,7 @@ canonifyurls = true
   tag = "tags"
   category = "categories"
   archive = "archives"
-  about = "about"
+  about = "abouts"
 
 [author]
   name = "Billy Lam"
