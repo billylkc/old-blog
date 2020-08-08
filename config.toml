@@ -35,15 +35,8 @@ canonifyurls = true
   bio = "Data Scientist slash Fisherman"
   job = "Data Scientist TechLead"
   location = "Hong Kong"
-  # Your Gravatar email. Overwrite `author.picture` everywhere in the blog
   gravatarEmail = "thibaud.lepretre@gmail.com"
-  # Your profile picture
-  # Overwritten by your gravatar image if `author.gravatarEmail` is filled
   picture = "https://cdn1.iconfinder.com/data/icons/ninja-things-1/1772/ninja-simple-512.png"
-  # Your Twitter username without the @. E.g : thibaudlepretre
-  # twitter = "thibaudlepretre"
-  # Your google plus profile id. E.g : +ThibaudLepretre or 114625208755123718311
-  # googlePlus = "+ThibaudLepretre"
 
 # Menu Configuration
 [[menu.main]]
@@ -82,7 +75,7 @@ canonifyurls = true
   identifier = "github"
   name = "GitHub"
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-github\"></i>"
-  url = "https://github.com/billylkc"
+  url = "https://github.com/kakawait"
 
 [params]
   # Customize date format use to render blog post date, categories and other
@@ -103,9 +96,9 @@ canonifyurls = true
 
   # Define categories will create hierarchy between parents: `categories = ["foo", "bar"]` will consider "bar" a sub-category of "foo".
   # If false it will flat categories.
-  hierarchicalCategories = false
+  hierarchicalCategories = true
 
-  description = "Another Data Sceience blog Description"
+  description = "Another Data Science Blog Description"
 
   # Customization
   # Define the behavior of the sidebar
@@ -145,7 +138,7 @@ canonifyurls = true
   autoThumbnailImage = true
 
   # Your favicon path, default is "/favicon.png"
-  favicon = "favicon.png"
+  favicon = "/favicon.png"
 
   # Header configuration
   # The link at the right of the header is customizable
@@ -200,6 +193,7 @@ canonifyurls = true
   # Customize copyright value "© 2017 <CUSTOMIZATION>. All Rights Reserved"
   # [params.footer]
   #   copyright = "<a href=\"https://github.com/kakawait\">kakawait</a>"
+
 
 # Hugo Deploy
 [deployment]
