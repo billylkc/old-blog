@@ -12,4 +12,4 @@ Welcome to my official Data Science Blog!
 
 If you checked out the "About Me." page then you know my name is Billy. And this is my first blog where I will be posting about how to be more effective as a Data Sceientist.
 
-Feel free to message me and suggest things or give me advice since I am always open to learn new stuff and perfect what I already learnd.
+Feel free to message me and suggest things, I am always open to learn new stuff and listen to adivce.
