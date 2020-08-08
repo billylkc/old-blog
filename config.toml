@@ -23,12 +23,13 @@ paginate = 7
 canonifyurls = true
 
 [permalinks]
-  post = "/:year/:month/:slug/"
+  post = "/blog/:year/:month/:slug/"
 
 [taxonomies]
   tag = "tags"
   category = "categories"
   archive = "archives"
+  about = "about"
 
 [author]
   name = "Billy Lam"
@@ -39,11 +40,17 @@ canonifyurls = true
   picture = "https://cdn1.iconfinder.com/data/icons/ninja-things-1/1772/ninja-simple-512.png"
 
 # Menu Configuration
+# [[menu.main]]
+#   weight = 1
+#   identifier = "home"
+#   name = "Home"
+#   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-home\"></i>"
+#   url = "/"
 [[menu.main]]
   weight = 1
-  identifier = "home"
-  name = "Home"
-  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-home\"></i>"
+  identifier = "blog"
+  name = "Blog"
+  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-comment-o\"></i>"
   url = "/"
 [[menu.main]]
   weight = 2
@@ -68,14 +75,14 @@ canonifyurls = true
   identifier = "about"
   name = "About"
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-question\"></i>"
-  url = "/#about"
+  url = "/about"
 
 [[menu.links]]
   weight = 1
   identifier = "github"
   name = "GitHub"
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-github\"></i>"
-  url = "https://github.com/kakawait"
+  url = "https://github.com/billylkc"
 
 [params]
   # Customize date format use to render blog post date, categories and other
@@ -184,11 +191,11 @@ canonifyurls = true
   [params.header.rightLink]
     class = ""
     icon = ""
-    url = "/#about"
+    url = "/"
 
   # Customize link of author avatar in sidebar
-  # [params.sidebar.profile]
-  #   url = "/#about"
+  [params.sidebar.profile]
+    url = "/"
 
   # Customize copyright value "© 2017 <CUSTOMIZATION>. All Rights Reserved"
   # [params.footer]
