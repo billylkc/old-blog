@@ -7,22 +7,33 @@ date: 2018-05-28
 > the present is our past.
 
 # Bio
-I’m a simple but tremendously curious person. I decided to blah blah blah. I really enjoy discovering, knowing and understanding about the only universe I’ll ever life on. I’ve developed a great love for lalala. I even ended up doing a Master degree towards understanding blah blab blah. Nowadays I’m focusing on the emergent field of Machine Learning.
+I’m a simple but tremendously curious person. I decided to blah blah blah. I really enjoy discovering, knowing and understanding about the only universe I’ll ever life on. I’ve developed a great love for lalala.  Nowadays I’m focusing on the emergent field of Machine Learning.
+
+And I went to Australia and worked as a deckhand for almost two years, which I am pretty proud of.
+
+![Starcat](/images/starcat.jpg)
 
 # Contact
-The simplest way of communication is by email. Just send me an email @ `hi AT billylkc DOT com`
-
-~~You can communicate securely with me using GnuPG (If you don’t know about it, it is a good time to learn).~~
-
-~~My key-ID has the fingerprint DE45 63AE 1484 3F6D 827F 5690 0AC4 D2FD D12D 1393.~~
+The simplest way of communication is by email. Just send me an email @ `billy.lamkc AT gmail DOT com`
 
 # Tech stacks
 * Python
 * Golang
 * R
+* Devops (Docker, CI/CD, Jenkins)
+* Linux
+* Cloud
+
+# Certificate
+* Google Cloud Data Engineer - [here](https://www.credential.net/e62d60a9-2793-49d5-aa13-c2da6e78bb44?key=5c111465c8602f544e13c75734ac41efccd34f481e9772774946154942f78a90)
+* Google Cloud Architect - <span style="color:grey">Hopefully soon!</span>
 
 # Formal Bio
 If you are looking for a more formal view into my life I keep a [CV online]().
+
+# Personal Interset
+* Looking for D&D group in Hong Kong
+* Telegram bot
 
 # Website info
 * Photo in the background by [Peter Y. Chuang](https://unsplash.com/@peterychuang) on Unsplash.
