@@ -34,6 +34,7 @@ If you are looking for a more formal view into my life I keep a [CV online]().
 # Personal Interset
 * Looking for D&D group in Hong Kong
 * Telegram bot
+* Machine Learning
 
 # Website info
 * Photo in the background by [Peter Y. Chuang](https://unsplash.com/@peterychuang) on Unsplash.
