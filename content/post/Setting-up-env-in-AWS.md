@@ -30,14 +30,22 @@ If you are having troubles in setting up a Data Science working environment or i
 
 ## Create a virtual machine on AWS
 
-Setting up a virtual machine on Cloud environment is easier than ever. Most cloud providers (AWS, GCP, Azure) are providing free credits for new users.
+Setting up a virtual machine on Cloud environment is easier than ever. Most cloud providers (AWS, GCP, Azure) are providing free credits for new users. Today we are going to setup an Amazone **EC2 Ubuntu machine** on AWS using a free-tier account.
 
-![Setting up on AWS](/images/output-opt.gif)
+![Setting up on AWS](/images/gif/aws-setup.gif)
 
-&nbsp;
 
-_Let's start_
+_Key steps_
 * Go to Amazon Web Service - [here](https://aws.amazon.com/free)
+* Assume you have already signed up for an AWS account
+* Login to your account by clicking _Sign in to the Console_ at the top right corner
+* Go to All services > Compute > E2
+* Launch an _Ubuntu (x86) Instance_
+* Choose the _t2 micro instance_ (1 vCPU, 1 GB Ram, 8Gb Storage)
+* Launch Instance with default settings
+* Create a new key pairs (**Important!** -  _Download Key Pairs_ for later use)
+* Wait the Instance to be Initiated (Can take a few minutes)
+* TA-TA
 
 ## Set up SSH keys
 
