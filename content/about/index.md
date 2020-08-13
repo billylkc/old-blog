@@ -23,6 +23,7 @@ The simplest way of communication is by email. Just send me an email @ `billy.la
 * Devops (Docker, CI/CD, Jenkins)
 * Linux
 * Cloud
+* Emacs
 
 # Certificate
 * Google Cloud Data Engineer - [here](https://www.credential.net/e62d60a9-2793-49d5-aa13-c2da6e78bb44?key=5c111465c8602f544e13c75734ac41efccd34f481e9772774946154942f78a90)

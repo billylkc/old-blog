@@ -23,21 +23,29 @@ tags:
 ## Introduction
 
 When you are working in a team, you may want to have a stable environment, so everyone can easily access your analysis findings, and reproduce the result.
+Windows may be good for our day to day work, but when it comes to stability and reproducibility, it may not be working as well as their Linux counterparts.
 
-I have learned throughout the years, Windows may be good for our day to day work, but when it comes to stability and reproducibility, it may not be working as well as their GNU/Linux counterparts.
-
-If you are having troubles in setting up a Data Science environment or installing packages/dependencies, or even maintaining your analysis project, read on. Give yourself a try with a Linux server, and set it up for free (At least for a year ㋡) on AWS.
+If you are having troubles in setting up a Data Science working environment or installing packages/dependencies, or maintaining your analysis project, read on. Give yourself a try with a Linux server, and set it up for free (For a year, at least ㋡) on AWS.
 
 
 ## Create a virtual machine on AWS
 
-Setting up a virtual machine on Cloud environment is easier than ever.
+Setting up a virtual machine on Cloud environment is easier than ever. Most cloud providers (AWS, GCP, Azure) are providing free credits for new users.
 
-![Alt text for my gif](/images/output-opt.gif)
+![Setting up on AWS](/images/output-opt.gif)
 
-<br>
-<br>
+&nbsp;
+
+_Let's start_
+* Go to Amazon Web Service - [here](https://aws.amazon.com/free)
 
 ## Set up SSH keys
 
+
 ## Connect with Putty
+
+Blah blah blah
+
+&nbsp;
+
+Photo by [Lindsay Henwood](https://unsplash.com/@lindsayhenwood) on Unsplash
