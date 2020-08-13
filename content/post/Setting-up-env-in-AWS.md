@@ -49,10 +49,34 @@ _Key steps_
 
 ## Set up SSH keys
 
+Some description about ssh key
+
+![Setting up on SSH](/images/gif/set-up-ssh.gif)
+
+_Key steps_
+* Download and install Putty (putty-64bit-0.74-installer.msi) - [here](https://www.putty.org/)
+* Download PuttyGen - [here](https://www.puttygen.com/download.php?val=49)
+* Run PuttyGen
+* Convert the previously generated key pairs to a private key
+  * _Load_ your _pem file_ (e.g. _billy-vm.pem_). Make sure the file type is set to _All Files(\*.\*)_, so you can see the file.
+  * Click _Save private key_. And save to a secure location. (Can also save to <home_dir>/.ssh, `e.g. C:/Users/Billy/.ssh/billy-vm.ppk`)
 
 ## Connect with Putty
 
-Blah blah blah
+Finally, we get to the part to actually connect to our virtual machine.
+
+![Connect to VM](/images/gif/ssh-to-vm.gif)
+
+_Key steps_
+* Copy the _Public DNS_ of your instance
+* Open _Putty_
+* Go to _Connection > Expand SSH > Auth_
+* Browse the _Private key_ (e.g. ~/.ssh/billy-vm.pkk)
+* Go back to Session setting
+* Set Hostname to _ubuntu@\<your public domain\>_ (Remember to add ubuntu@)
+* Set Saved Session to some name (e.g. billy-vm)
+* _Save and Connect_ to the VM
+* Should be able to see Welcome to _Ubuntu 18.04.5 LTS in your Putty session_
 
 &nbsp;
 
