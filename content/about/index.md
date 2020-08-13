@@ -14,7 +14,7 @@ Also, I went to Australia and worked as a deckhand for almost two years, which I
 ![Starcat](/images/starcat.jpg)
 
 # Contact
-The simplest way of communication is by email. Just send me an email @ `billy.lamkc AT gmail DOT com`
+The simplest way of communication is by email. Just send me an email @ `hi AT billylkc DOT com`
 
 # Tech stacks
 * Python
