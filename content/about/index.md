@@ -1,6 +1,6 @@
 ---
 title: "About me"
-date: 2018-05-28
+date: 2020-08-01
 ---
 
 > We're living the future so
@@ -9,7 +9,7 @@ date: 2018-05-28
 # Bio
 I’m a simple but tremendously curious person. I decided to blah blah blah. I really enjoy discovering, knowing and understanding about the only universe I’ll ever life on. I’ve developed a great love for lalala.  Nowadays I’m focusing on the emergent field of Machine Learning.
 
-And I went to Australia and worked as a deckhand for almost two years, which I am pretty proud of.
+Also, I went to Australia and worked as a deckhand for almost two years, which I am pretty proud of.
 
 ![Starcat](/images/starcat.jpg)
 

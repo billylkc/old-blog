@@ -1,8 +1,8 @@
 ---
 title: "Setting up working environment on AWS"
 date: 2020-08-10T06:10:10+08:00
-thumbnailImage: /images/getting-started.png
-draft: true
+thumbnailImage: /images/getting-started.jpg
+draft: false
 categories:
 - setup
 - linux
@@ -11,6 +11,9 @@ tags:
 - cloud
 - linux
 ---
+
+> As cornerstones of scientific processes, reproducibility and replicability ensure results can be verified and trusted.
+
 ## Summary
 * [Introduction](#introduction)
 * [Create virtual machine on AWS](#create-a-virtual-machine-on-aws)
