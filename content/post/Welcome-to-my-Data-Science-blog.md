@@ -10,10 +10,10 @@ tags:
 ---
 Welcome to my official Data Science Blog!
 
-If you checked out the "About Me" page then you know my name is Billy. And this is my first blog where I will be posting about how to be more effective as a Data Sceientist.
+If you checked out the About Me page then you know my name is Billy. And this is my first blog where I will be posting about how to be more effective as a Data Sceientist.
 
 I will start with some basics stuff, like day-to-day tools that I use, some visualizations and Python/R code snippets.
 
 And maybe some algorithms that I use at work. Stay tuned.
 
-If you like my blog, feel free to message me and suggest. I am always open to learn new stuff and make friends.
+If you like my blog, feel free to message me and support I am always open to learning new stuff and making friends.
