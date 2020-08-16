@@ -10,15 +10,19 @@ tags:
 - getting started
 - cloud
 - linux
+keywords:
+- ds
+- aws
 ---
 
-> As cornerstones of scientific processes, reproducibility and replicability ensure results can be verified and trusted.
+> Reproducibility and replicability ensure results can be verified and trusted.
 
 ## Summary
 * [Introduction](#introduction)
 * [Create virtual machine on AWS](#create-a-virtual-machine-on-aws)
 * [Set up SSH keys](#set-up-ssh-keys)
 * [Connect with Putty](#connect-with-putty)
+* [Conclusion](#conclusion)
 
 ## Introduction
 
@@ -77,6 +81,10 @@ _Key steps_
 * Set Saved Session to some name (e.g. billy-vm)
 * _Save and Connect_ to the VM
 * Should be able to see Welcome to _Ubuntu 18.04.5 LTS in your Putty session_
+
+## Conclusion
+
+write something
 
 &nbsp;
 
