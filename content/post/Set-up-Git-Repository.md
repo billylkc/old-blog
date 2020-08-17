@@ -71,7 +71,7 @@ To be added
   ```
   ssh-keygen -t rsa -b 4096 -C "<Your email>"
   ```
-* Save the key under your ~/.ssh directory, e.g.
+* Save the key under your ~/.ssh directory (e.g. C:\Users\Maximus\.ssh\)
   ```
   /c/Users/Maximus/.ssh/id_rsa_demo
   ```
