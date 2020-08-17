@@ -1,5 +1,5 @@
 ---
-title: "Setting up working environment on AWS"
+title: "Set up working environment on AWS"
 date: 2020-08-10T06:10:10+08:00
 thumbnailImage: /images/getting-started.jpg
 draft: false

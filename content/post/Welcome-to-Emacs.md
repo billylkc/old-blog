@@ -9,9 +9,8 @@ tags:
 keywords:
 - ds
 - emacs
-#thumbnailImage: //example.com/image.jpg
 ---
-> I wish they taught Emacs in my Univeristy. I could have been two years younger.
+> I wish they taught Emacs in my college. I could have been two years younger.
 <!--more-->
 
 ## Introduction
