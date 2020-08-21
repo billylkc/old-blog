@@ -85,6 +85,7 @@ To be added
   * Key: __\<Paste the content inside the id_rsa_demo.pub file\>__
 * Final step, create a __config__ file under __~/.ssh__ folder
 * Save the content of the file according to the following (Change accordingly)
+  __~/.ssh/config__
   ```
   Host <profile name>
         HostName github.com
