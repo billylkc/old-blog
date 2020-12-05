@@ -60,8 +60,6 @@ To be added
 * Go to github.com - [Here](https://github.com/)
 * Register your account
 
-![Register git](/images/gif/register-git.gif)
-
 ## Set up SSH key
 
 * Sign in to your github account
@@ -103,6 +101,9 @@ To be added
 
 &nbsp;
 ![Set up SSH key](/images/gif/git-ssh.gif)
+
+
+## Verify your settings
 
 
 ## Initiate a repository
